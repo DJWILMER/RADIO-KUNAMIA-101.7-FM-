@@ -1,0 +1,20 @@
+{
+  "name": "Radio Kunamia - 101.7 FM",
+  "short_name": "Radio Kunamia",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#28a745",
+  "theme_color": "#28a745",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/bjrs0Y63/cover-logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://i.ibb.co/bjrs0Y63/cover-logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
